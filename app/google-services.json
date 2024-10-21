@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "71700237341",
+    "firebase_url": "https://ambu-care-c56de-default-rtdb.firebaseio.com",
+    "project_id": "ambu-care-c56de",
+    "storage_bucket": "ambu-care-c56de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71700237341:android:9afd39f352d90d7eb9caf4",
+        "android_client_info": {
+          "package_name": "com.example.ambucare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWHXwSWSikQwpfyhUNwxGTmcIyPsJseEk"
+        },
+        {
+          "current_key": "AIzaSyCDBODHKG3wsiDV0b3vG_imnlmX-SFVWl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71700237341:android:ba3cdbcc5c854351b9caf4",
+        "android_client_info": {
+          "package_name": "com.example.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWHXwSWSikQwpfyhUNwxGTmcIyPsJseEk"
+        },
+        {
+          "current_key": "AIzaSyCDBODHKG3wsiDV0b3vG_imnlmX-SFVWl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".homeFragment">
+
+    <!-- Emergency Button Container -->
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="8dp">
+
+        <!-- Red Circular Button -->
+        <Button
+            android:id="@+id/emergency_button"
+            android:layout_width="340dp"
+            android:layout_height="340dp"
+            android:background="@drawable/red_circle_button"
+            android:text="SOS"
+            android:textColor="@android:color/white"
+            android:textSize="60sp"
+            android:gravity="center"/>
+    </FrameLayout>
+</FrameLayout>
